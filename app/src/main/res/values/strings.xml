@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ultimate Hotspot</string>
+    <string name="info_message_success">Connecting from other devices:\n
+    1. Turn on Wifi on the device.\n
+    2. Select \"%1$s\" from the list of available wifi networks.\n
+    3. Connect to \"%1$s\" by entering \"%2$s\" as the password.</string>
+    <string name="info_message_failure">Error: %s</string>
+    <string name="error_not_rooted">Your device has to be rooted in order to setup the DHCP.</string>
+    <string name="permission_not_granted">Required permission(s) %s not granted.</string>
+    <string name="enable_wifi">Enable Wifi</string>
+</resources>
